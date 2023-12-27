@@ -15,10 +15,20 @@ sections:
         options:
           - title: Hero Dropdown Element Title
             url: ""
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: 乐学善用
+      id: infopic
+      description: 巩固对语文的兴趣，提升整体的应用水平
+      button: 点击这里
+      url: www
+      image: /images/Picture1.jpg
+      alt: Image alt text
+  - infopic:
+      title: 发挥潜能
+      id: infopic
+      description: 成为双语双文化人才，将两种语文及文化融会贯通，左右逢源
+      button: 点击这里
+      url: www.
+      image: /images/Picture6.jpg
+      alt: Image alt text
 ---
