@@ -31,4 +31,12 @@ sections:
       url: www.
       image: /images/Picture6.jpg
       alt: Image alt text
+  - infopic:
+      title: 学以致用
+      id: infopic
+      description: 把握华文优势，开创未来无限机遇
+      button: 点击这里
+      url: www
+      image: /images/2023_CLEP_Camp_10.jpg
+      alt: Image alt text
 ---
