@@ -1,5 +1,5 @@
 collections:
-  specialprogrammes:
+  special-programmes:
     output: true
     order:
       - 华文语文特选课程.md
