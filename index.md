@@ -14,7 +14,7 @@ sections:
         title: 了解高中华文课程......
         options:
           - title: 高中华文语文特选课程
-            url: /jcclep/
+            url: https://cms.isomer.gov.sg/sites/moe-cl-preu/jcclep/
   - infopic:
       title: 乐学善用
       id: infopic
