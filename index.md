@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: 高中华文课程 Pre-University Chinese Courses
+description: An Isomer site of the Singapore Government
+image: /images/cpdd.jpg
 permalink: /
 notification: ""
 sections:
