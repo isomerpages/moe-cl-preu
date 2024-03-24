@@ -2,4 +2,5 @@ collections:
   special-programmes:
     output: true
     order:
+      - 双文化课程 bsp.md
       - 华文语文特选课程.md
