@@ -11,10 +11,10 @@ sections:
       subtitle: 承前启后迎未来
       background: /images/Screenshot_2023_12_27_at_1_29_39_PM.png
       dropdown:
-        title: ""
+        title: 了解高中华文课程......
         options:
-          - title: Hero Dropdown Element Title
-            url: ""
+          - title: 高中华文语文特选课程
+            url: /jcclep/
   - infopic:
       title: 乐学善用
       id: infopic
