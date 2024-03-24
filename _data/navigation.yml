@@ -1,4 +1,4 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: 华文语文特选课程
-    url: /jcclep/
+  - title: 特别课程
+    collection: special-programmes
