@@ -28,7 +28,7 @@ sections:
       id: infopic
       description: 成为双语双文化人才，将两种语文及文化融会贯通，左右逢源
       button: 点击这里
-      url: www.
+      url: /home/special-programmes/
       image: /images/Picture6.jpg
       alt: Image alt text
   - infopic:
