@@ -14,9 +14,9 @@ sections:
         title: 了解高中华文课程......
         options:
           - title: 高中华文语文特选课程
-            url: https://cl-preu.gov.sg/jcclep/
+            url: /home/special-programmes/jcclep/
           - title: 双文化课程
-            url: https://cl-preu.gov.sg/bsp/
+            url: /home/special-programmes/bsp/
   - infopic:
       title: 乐学善用
       id: infopic
