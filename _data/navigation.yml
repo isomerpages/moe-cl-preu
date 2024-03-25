@@ -2,3 +2,5 @@ logo: /images/isomer-logo.svg
 links:
   - title: 特别课程
     collection: special-programmes
+  - title: 课程资源
+    resource_room: true
