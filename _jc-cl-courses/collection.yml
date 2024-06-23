@@ -1,4 +1,5 @@
 collections:
   jc-cl-courses:
     output: true
-    order: []
+    order:
+      - H1 华文.md
