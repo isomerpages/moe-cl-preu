@@ -1,0 +1,4 @@
+collections:
+  jc-cl-courses:
+    output: true
+    order: []
