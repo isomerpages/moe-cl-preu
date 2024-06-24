@@ -1,4 +1,5 @@
 collections:
   jc-cl-resources:
     output: true
-    order: []
+    order:
+      - H2CSC SLS Resources.md
