@@ -3,7 +3,7 @@ url: https://cl-preu.gov.sg
 favicon: /images/cpdd.jpg
 colors:
   primary-color: "#4a90e2"
-  secondary-color: "#f5a623"
+  secondary-color: "#0c69d5"
   media-colors:
     - title: media-color-one
       color: "#49759a"
