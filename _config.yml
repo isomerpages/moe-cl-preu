@@ -1,9 +1,9 @@
 title: 高中华文课程 Pre-University Chinese Courses
 url: https://cl-preu.gov.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/cpdd.jpg
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  primary-color: "#4a90e2"
+  secondary-color: "#f5a623"
   media-colors:
     - title: media-color-one
       color: "#49759a"
