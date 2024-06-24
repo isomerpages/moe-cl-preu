@@ -6,3 +6,8 @@ links:
     collection: special-programmes
   - title: 课程资源
     resource_room: true
+  - title: 课程资源
+    url: /resources/
+    sublinks:
+      - title: SLS数码资源
+        url: /resources/
