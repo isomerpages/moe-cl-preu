@@ -7,7 +7,7 @@ description: ""
 <p style="color: #0C69D5; font-family: kai; font-size: 28px; font-weight: bold">语言学</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><p style="font-family: kai; font-size: 22px; font-weight: bold">人类语言共同的特征</p></summary>
+<summary><p style="font-family: kai; font-size: 22px;">人类语言共同的特征</p></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
 
@@ -17,7 +17,7 @@ description: ""
 
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><p style="font-family: kai; font-size: 22px; font-weight: bold">词汇与形态</p></summary>
+<summary><p style="font-family: kai; font-size: 22px;">词汇与形态</p></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>	
 	
@@ -27,7 +27,7 @@ description: ""
 	
 	<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><p style="font-family: kai; font-size: 22px; font-weight: bold">语法</p>
+<summary><p style="font-family: kai; font-size: 22px;">语法</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
@@ -40,7 +40,7 @@ description: ""
 <p style="color: #0C69D5; font-family: kai; font-size: 28px; font-weight: bold">翻译学</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><p style="font-family: kai; font-size: 22px; font-weight: bold">翻译简介</p></summary>
+<summary><p style="font-family: kai; font-size: 22px;">翻译简介</p></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
 	
@@ -52,7 +52,7 @@ description: ""
 
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><p style="font-family: kai; font-size: 22px; font-weight: bold">翻译策略</p></summary>
+<summary><p style="font-family: kai; font-size: 22px;">翻译策略</p></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>	
 	
@@ -65,7 +65,7 @@ description: ""
 	
 	<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><p style="font-family: kai; font-size: 22px; font-weight: bold">翻译评论</p>
+<summary><p style="font-family: kai; font-size: 22px;">翻译评论</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
@@ -73,14 +73,17 @@ description: ""
 * [错误分析](https://vle.learning.moe.edu.sg/moe-library/lesson/view/f4020ac3-c108-4410-af1f-803c89849d46/cover)
 </p></div>
 </details>
-		<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+
+			
+<p style="color: #0C69D5; font-family: kai; font-size: 28px; font-weight: bold">讲座</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><p style="font-family: kai; font-size: 22px; font-weight: bold">讲座</p>
+<summary><p style="font-family: kai; font-size: 22px;">学生讲座</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>
+<p></p></div>
 	
 * 胡碚助理教授： [从理论到实践：翻译之趣与翻译之道](https://vle.learning.moe.edu.sg/moe-library/lesson/view/3e902ab1-3295-44b2-b26b-57a7fe13ba38/cover)
-</p></div>
-</details>
-</div></div></div></div></div></div></div>
+<p></p></details></div>
+
+</div></div></div></div></div></div>
