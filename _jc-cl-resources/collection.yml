@@ -1,5 +1,4 @@
 collections:
   jc-cl-resources:
     output: true
-    order:
-      - SLS学习资源.md
+    order: []
