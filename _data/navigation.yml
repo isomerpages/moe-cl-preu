@@ -4,7 +4,7 @@ links:
     collection: jc-cl-courses
   - title: 特别课程
     collection: special-programmes
-  - title: 课程资源
+  - title: 课程数码资源
     url: /resources/
     sublinks:
       - title: H2中国通识
