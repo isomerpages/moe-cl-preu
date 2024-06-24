@@ -2,6 +2,6 @@ collections:
   special-programmes:
     output: true
     order:
-      - Special Programmes.md
+      - 特别课程.md
       - 双文化课程.md
       - 华文语文特选课程.md
