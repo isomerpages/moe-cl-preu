@@ -13,9 +13,9 @@ sections:
   - infopic:
       title: 乐学善用
       id: infopic
-      description: 巩固对语文的兴趣，提升整体的应用水平
+      description: 巩固对语文的兴趣，提升整体的应用水平。
       button: 点击这里
-      url: /folders/jc-cl-courses
+      url: /overview/
       image: /images/Picture1.jpg
       alt: Image alt text
   - infopic:
