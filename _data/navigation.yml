@@ -1,5 +1,7 @@
 logo: /images/isomer-logo.svg
 links:
+  - title: 华文课程
+    collection: jc-cl-courses
   - title: 特别课程
     collection: special-programmes
   - title: 课程资源
