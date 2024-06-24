@@ -48,7 +48,7 @@ variant: markdown
 * [明代文学](https://vle.learning.moe.edu.sg/moe-library/lesson/view/ee2100ae-7e7b-430f-a26b-58ced6fb8216/cover)
 * [清代文学](https://vle.learning.moe.edu.sg/moe-library/lesson/view/da0db82f-02b9-44b2-ade5-5f25cc2c07c0/cover)
 * [现代文学](https://vle.learning.moe.edu.sg/moe-library/lesson/view/6eaaa0da-c866-47b4-8413-f864077725b7/cover)
-* [中西方翻译发展史三（当代篇）：机器与人工智能翻译](https://vle.learning.moe.edu.sg/moe-library/lesson/view/8d7f8e1b-a128-4850-8784-6ad2f66d8914/cover)
+
 
 <p style="font-family: kai; font-size: 22px; font-weight: bold">文学修辞手法</p>
 
@@ -80,7 +80,7 @@ variant: markdown
 
 * [诗歌的发展与形式（一）](https://vle.learning.moe.edu.sg/moe-library/lesson/view/d79b8fdf-45de-49f4-b495-bb7c526f771e/cover)
 * [意象](https://vle.learning.moe.edu.sg/moe-library/lesson/view/461858ce-9dad-4c7f-8ca1-f9b77d159706/cover)
-* [《爱的辩证》](https://vle.learning.moe.edu.sg/moe-library/lesson/view/dd0939fc-03bb-40b3-924d-f91e89635dec/cover)
+* [指定文学作品：《爱的辩证》](https://vle.learning.moe.edu.sg/moe-library/lesson/view/dd0939fc-03bb-40b3-924d-f91e89635dec/cover)
 
 <p style="font-family: kai; font-size: 20px; font-weight: bold">现当代小说</p>
 
@@ -88,11 +88,11 @@ variant: markdown
 * [小说（二）：小说三要素](https://vle.learning.moe.edu.sg/moe-library/lesson/view/6acfd7a2-2974-422f-bdd1-fec91ff61144/cover)
 * [叙事方法](https://vle.learning.moe.edu.sg/moe-library/lesson/view/563fb73c-ae68-424a-8411-625fe6e6c107/cover)
 * [叙事观点](https://vle.learning.moe.edu.sg/moe-library/lesson/view/66f8b768-7868-4cad-9117-3fb057d1922e/cover)
-* [《本次列车终点》](https://vle.learning.moe.edu.sg/moe-library/lesson/view/9d205852-282a-4b56-a0fd-942288c60a23/cover)
-* [《不存在的请人》](https://vle.learning.moe.edu.sg/moe-library/lesson/view/52ada52f-c8d8-40d3-85e4-b03f5514330d/cover)
+* [指定文学作品：《本次列车终点》](https://vle.learning.moe.edu.sg/moe-library/lesson/view/9d205852-282a-4b56-a0fd-942288c60a23/cover)
+* [指定文学作品：《不存在的请人》](https://vle.learning.moe.edu.sg/moe-library/lesson/view/52ada52f-c8d8-40d3-85e4-b03f5514330d/cover)
 
 <p style="font-family: kai; font-size: 20px; font-weight: bold">现代戏剧</p>
 
 * [戏剧欣赏](https://vle.learning.moe.edu.sg/moe-library/lesson/view/077d2748-6e9e-45f8-93c7-84728f5c468c/cover)
-* [《傻姑娘与怪老树》](https://vle.learning.moe.edu.sg/moe-library/lesson/view/8eee33a1-a17a-4b5a-b0b6-2efc5d4e23af/cover)
-* [《㗝呸店》](https://vle.learning.moe.edu.sg/moe-library/lesson/view/752c82e2-60f3-4513-b313-d7f5b5292cf4/cover)
+* [指定文学作品：《傻姑娘与怪老树》](https://vle.learning.moe.edu.sg/moe-library/lesson/view/8eee33a1-a17a-4b5a-b0b6-2efc5d4e23af/cover)
+* [指定文学作品：《㗝呸店》](https://vle.learning.moe.edu.sg/moe-library/lesson/view/752c82e2-60f3-4513-b313-d7f5b5292cf4/cover)
