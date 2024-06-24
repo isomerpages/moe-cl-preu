@@ -2,6 +2,5 @@ collections:
   special-programmes:
     output: true
     order:
-      - H2 中国通识.md
       - 双文化课程.md
       - 华文语文特选课程.md
