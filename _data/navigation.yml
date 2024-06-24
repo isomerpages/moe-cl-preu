@@ -5,7 +5,7 @@ links:
   - title: 特别课程
     collection: special-programmes
   - title: 课程数码资源
-    url: /resources/
+    url: /slsresources/
     sublinks:
       - title: H2中国通识
         url: /h2csc-sls-resources/
