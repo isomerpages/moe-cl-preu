@@ -2,4 +2,5 @@ collections:
   jc-cl-resources:
     output: true
     order:
+      - H2T SLS Resources.md
       - H2中国通识SLS课件.md
