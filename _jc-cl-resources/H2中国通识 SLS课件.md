@@ -7,7 +7,7 @@ description: ""
 <p style="color: #0C69D5; font-family: kai; font-size: 28px; font-weight: bold">核心课题</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><p style="color: #0C69D5; font-family: kai; font-size: 28px; font-weight: bold">核心课题简介</p></summary>
+<summary><p style="font-family: kai; font-size: 22px;">核心课题简介</p></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
 
@@ -18,7 +18,7 @@ description: ""
 
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><p style="color: #0C69D5; font-family: kai; font-size: 28px; font-weight: bold">核心课题一：中国的经济及其可持续发展</p></summary>
+<summary><p style="font-family: kai; font-size: 22px;">核心课题一：中国的经济及其可持续发展</p></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>	
 	
@@ -32,7 +32,7 @@ description: ""
 	
 	<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><p style="color: #0C69D5; font-family: kai; font-size: 28px; font-weight: bold">核心课题二：中国的治理及其挑战</p>
+<summary><p style="font-family: kai; font-size: 22px;">核心课题二：中国的治理及其挑战</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>	
@@ -46,7 +46,7 @@ description: ""
 		
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><p style="color: #0C69D5; font-family: kai; font-size: 28px; font-weight: bold">核心课题三：中国的社会及其演变</p>
+<summary><p style="font-family: kai; font-size: 22px;">核心课题三：中国的社会及其演变</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
@@ -58,7 +58,7 @@ description: ""
 
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><p style="color: #0C69D5; font-family: kai; font-size: 28px; font-weight: bold">核心课题四：中国的外交及其影响</p>
+<summary><p style="font-family: kai; font-size: 22px;">核心课题四：中国的外交及其影响</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
@@ -72,17 +72,48 @@ description: ""
 </p></div>
 </details>
 
-
-<p style="color: #0C69D5; font-family: kai; font-size: 28px; font-weight: bold">中国通识通用技能</p>
-
+<p style="color: #0C69D5; font-family: kai; font-size: 28px; font-weight: bold">中国通识技能</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><p style="font-family: kai; font-size: 22px;">解读数据</p>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>
 * [解读数据（一）](https://vle.learning.moe.edu.sg/moe-library/lesson/view/3c6f4e1b-75a9-4245-8af0-713d0941f27c/cover)
-
+</p></div>
+</details>
+	
 <p style="color: #0C69D5; font-family: kai; font-size: 28px; font-weight: bold">热点话题</p>
-
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><p style="font-family: kai; font-size: 22px; f">关键词</p>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>
+	
 * [未富先老](https://vle.learning.moe.edu.sg/moe-library/lesson/view/313ed99e-f28d-43bb-85f7-82dea62fbd5e/cover)
 * [”共同富裕“——2021年的关键词？](https://vle.learning.moe.edu.sg/moe-library/lesson/view/6623ecac-d4d9-41c6-8639-2990314ab272/cover)
+	</p></div>
+</details>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><p style="font-family: kai; font-size: 22px;">热门事件</p>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>
 * [中国灾难治理及突发事件应急管理](https://vle.learning.moe.edu.sg/moe-library/lesson/view/ed31fc12-7152-4bac-916d-b5e3948ca4a7/cover)
+	</p></div>
+</details>
+
 
 <p style="color: #0C69D5; font-family: kai; font-size: 28px; font-weight: bold">讲座</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><p style="font-family: kai; font-size: 22px;">双文化课程研讨会</p>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>
 
-* 双文化课程研讨会2023： [《以比较视野深入了解中国：大陆大国，中央集权和官本位》](https://vle.learning.moe.edu.sg/moe-library/lesson/view/78327fe7-e1fc-4a15-858d-fc953e57a170/cover)</div></div></div></div></div>
+* 双文化课程研讨会2023： [《以比较视野深入了解中国：大陆大国，中央集权和官本位》](https://vle.learning.moe.edu.sg/moe-library/lesson/view/78327fe7-e1fc-4a15-858d-fc953e57a170/cover)
+		</p></div>
+</details></div></div></div></div></div></div></div></div></div>
