@@ -11,3 +11,5 @@ links:
         url: /slsresources/
       - title: H2翻译
         url: /h2t-sls-resources/
+  - title: 课程资源
+    resource_room: true
