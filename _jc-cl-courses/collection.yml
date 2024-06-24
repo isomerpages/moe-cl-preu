@@ -2,5 +2,6 @@ collections:
   jc-cl-courses:
     output: true
     order:
+      - H2 中国通识.md
       - H1 华文.md
       - H2 华文与文学.md
