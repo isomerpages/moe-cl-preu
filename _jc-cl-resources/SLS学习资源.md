@@ -18,14 +18,12 @@ description: ""
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/MYZ0v-4T4_Y?si=V2qrpaEJWgn4hTAy" height="315" width="560"></iframe><br><br></center>
 <hr><h4><p style="font-family: kai; font-size: 28px; font-weight: bold">H2中国通识数码资源示例：</p></h4>
 <center><p style="font-family: kai; font-size: 20px; font-weight: bold">SLS课件截图</p></center>
-<center>
 	
 ![](/images/csc_lessons.gif)
-</center>
+
 <br><br>
 <hr>
 <h4><p style="font-family: kai; font-size: 28px; font-weight: bold">H2翻译数码资源示例：</p></h4>
 <center><p style="font-family: kai; font-size: 20px; font-weight: bold">SLS课件截图</p></center>
-<center>
-	
-![](/images/translation_lessons.gif)</center>
+
+![](/images/translation_lessons.gif)
