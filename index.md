@@ -15,7 +15,7 @@ sections:
       id: infopic
       description: 巩固对语文的兴趣，提升整体的应用水平
       button: 点击这里
-      url: www
+      url: /folders/jc-cl-courses
       image: /images/Picture1.jpg
       alt: Image alt text
   - infopic:
