@@ -2,4 +2,4 @@ collections:
   jc-cl-resources:
     output: true
     order:
-      - resources.md
+      - 高中华文课程数码资源.md
