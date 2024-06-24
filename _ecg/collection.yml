@@ -2,4 +2,4 @@ collections:
   ecg:
     output: true
     order:
-      - ECG Video.md
+      - 华文优势.md
