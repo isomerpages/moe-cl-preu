@@ -21,7 +21,7 @@ sections:
   - infopic:
       title: 发挥潜能
       id: infopic
-      description: 成为双语双文化人才，将两种语文及文化融会贯通，左右逢源
+      description: 成为双语双文化人才，将两种语文及文化融会贯通，左右逢源。
       button: 点击这里
       url: /special-programmes/
       image: /images/Picture6.jpg
