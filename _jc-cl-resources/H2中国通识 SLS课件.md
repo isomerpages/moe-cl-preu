@@ -155,7 +155,12 @@ description: ""
 <details class="isomer-details">
 <summary>热门事件</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>* [中国灾难治理及突发事件应急管理](https://vle.learning.moe.edu.sg/moe-library/lesson/view/ed31fc12-7152-4bac-916d-b5e3948ca4a7/cover)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/ed31fc12-7152-4bac-916d-b5e3948ca4a7/cover" rel="noopener noreferrer nofollow" target="_blank">中国灾难治理及突发事件应急管理</a>
+</p>
+</li>
+</ul>
 </div>
 </details>
 </div>
