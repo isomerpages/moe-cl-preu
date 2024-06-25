@@ -76,9 +76,15 @@ description: ""
 
 * [口语教学](https://vle.learning.moe.edu.sg/moe-library/lesson/view/82405408-b47c-4f4b-82d2-e209c8884832/cover)
 * [新加坡公民的义务](https://vle.learning.moe.edu.sg/moe-library/lesson/view/04a31632-0d94-4c38-8b2f-cc3224841a8c/cover)
+* [现代人的阅读习惯](https://vle.learning.moe.edu.sg/moe-library/lesson/view/c391a659-fd02-44df-8e3a-9bc90c6c31dd/cover)
 * [亲情](https://vle.learning.moe.edu.sg/moe-library/lesson/view/826b333f-85e5-4430-9406-2fdd20d142a9/cover)
-* [写作迈向智慧国](https://vle.learning.moe.edu.sg/moe-library/lesson/view/89818b75-58b8-4e0f-908b-0dee38eec720/cover)
+* [社区服务](https://vle.learning.moe.edu.https://vle.learning.moe.edu.sg/moe-library/lesson/view/72bb989a-48bc-4743-8317-9eb870df8ee1/cover)
+* [升级再造——环保新理念](https://vle.learning.moe.edu.sg/moe-library/lesson/view/11e710c9-32e1-4503-8986-ad5b59c898ab/cover)
+* [携手迈向智慧国](https://vle.learning.moe.edu.sg/moe-library/lesson/view/89818b75-58b8-4e0f-908b-0dee38eec720/cover)
 * [让新加坡更健康](https://vle.learning.moe.edu.sg/moe-library/lesson/view/347ab4dd-ce86-414a-8118-a3fddb6ae609/cover)
+* [平衡学业与休闲生活](https://vle.learning.moe.edu.sg/moe-library/lesson/view/884aaf2a-db29-41e8-ac5a-f793cb56938a/cover)
+* [独特的新加坡文化](https://vle.learning.moe.edu.sg/moe-library/lesson/view/9cd24503-0e88-4023-a795-3a333220ea0a/cover)
+* [小贩文化](https://vle.learning.moe.edu.sg/moe-library/lesson/view/416d0626-7796-40ea-ba91-f3b4998ac1c2/cover)
 * [新加坡美食天堂](https://vle.learning.moe.edu.sg/moe-library/lesson/view/e90768fc-a002-410b-9e0a-66670d68692e/cover)
 * [社区花园，宜居城市](https://vle.learning.moe.edu.sg/moe-library/lesson/view/75b60bae-aa6f-491c-8226-3d580cff52a7/cover)
 	</p></div>
