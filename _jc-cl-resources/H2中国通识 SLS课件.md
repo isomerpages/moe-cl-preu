@@ -169,7 +169,12 @@ description: ""
 <details class="isomer-details">
 <summary>双文化课程研讨会</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/78327fe7-e1fc-4a15-858d-fc953e57a170/cover" rel="noopener noreferrer nofollow" target="_blank">【2023】陈抗教授《以比较视野深入了解中国：大陆大国，中央集权和官本位》</a>
+</p>
+</li>
+</ul>
 </div>
 </details>
 </div>
