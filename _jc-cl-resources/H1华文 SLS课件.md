@@ -9,7 +9,6 @@ description: ""
 <details class="isomer-details">
 <summary>文化</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <ul>
 <li>
 <p><a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/729f7646-0d91-4913-a611-79d431e4980e/cover" rel="noopener noreferrer nofollow" target="_blank">把握多元文化的优势</a>
@@ -38,7 +37,6 @@ description: ""
 <li>
 <p><a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/622ac749-a9c0-49fe-bb7c-addefcd5b14e/cover" rel="noopener noreferrer nofollow" target="_blank">消失中的传统文化</a>
 </p>
-<p></p>
 </li>
 </ul>
 </div>
@@ -46,7 +44,6 @@ description: ""
 <details class="isomer-details">
 <summary>关系</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/a1ebdd8b-d67e-4495-a6e3-ad26e53a3d3a/cover" rel="noopener noreferrer nofollow" target="_blank">网络世界的人际关系</a>
@@ -57,13 +54,11 @@ description: ""
 </p>
 </li>
 </ul>
-<p></p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>变化</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/1b435ff0-5fe7-42c2-a841-a5473582cc57/cover" rel="noopener noreferrer nofollow" target="_blank">抓住变化带来的契机</a>
@@ -82,7 +77,6 @@ description: ""
 </p>
 </li>
 </ul>
-<p></p>
 </div>
 </details>
 </div>
