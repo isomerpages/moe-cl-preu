@@ -65,12 +65,22 @@ description: ""
 	</p></div>
 </details>
 
-<p style="color: #0C69D5; font-family: kai; font-size: 28px; font-weight: bold">阅读理解</p>
+<p style="color: #0C69D5; font-family: kai; font-size: 28px; font-weight: bold">语文应用与阅读理解</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><p style="font-family: kai; font-size: 22px;">文化</p></summary>
+<summary><p style="font-family: kai; font-size: 22px;">语文知识</p></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
+	
+* [十二生肖趣味成语](https://vle.learning.moe.edu.sg/moe-library/lesson/view/f09981fd-0441-438e-b9a0-6c3e32a880be/cover)
+	</p></div>
+</details>
+	<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><p style="font-family: kai; font-size: 22px;">综合填空</p></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>
+* [综合填空的作答技巧](https://vle.learning.moe.edu.sg/moe-library/lesson/view/1ec7da7a-40b1-48dd-8b3a-37d3faf7f791/cover)
 	</p></div>
 </details>
 	<p style="color: #0C69D5; font-family: kai; font-size: 28px; font-weight: bold">语文知识</p>
@@ -80,6 +90,6 @@ description: ""
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
 	
-* [十二生肖趣味成语](https://vle.learning.moe.edu.sg/moe-library/lesson/view/f09981fd-0441-438e-b9a0-6c3e32a880be/cover)
+
 	</p></div>
-</details></div></div></div></div></div></div></div></div>
+</details></div></div></div></div></div></div></div></div></div>
