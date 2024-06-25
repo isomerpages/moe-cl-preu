@@ -9,7 +9,6 @@ description: ""
 <details class="isomer-details">
 <summary>核心课题简介</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/02971279-e1c6-4f6b-a507-762a449dd4cd/cover" rel="noopener noreferrer nofollow" target="_blank">核心课题一</a>
@@ -20,13 +19,11 @@ description: ""
 </p>
 </li>
 </ul>
-<p></p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>核心课题一：中国的经济及其可持续发展</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/168d25bc-c35f-4004-a2d5-31bc335a9330/cover" rel="noopener noreferrer nofollow" target="_blank">中国城镇化的特点及影响</a>
@@ -49,7 +46,6 @@ description: ""
 </p>
 </li>
 </ul>
-<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -76,7 +72,6 @@ description: ""
 <details class="isomer-details">
 <summary>核心课题三：中国的社会及其演变</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/9e47a9d1-9285-48ec-b28e-d6105de13676/cover" rel="noopener noreferrer nofollow" target="_blank">宗教复兴（一）：概览</a>
@@ -87,13 +82,11 @@ description: ""
 </p>
 </li>
 </ul>
-<p></p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>核心课题四：中国的外交及其影响</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/208af78c-e1cb-4d73-bf57-09c6d8033908/cover" rel="noopener noreferrer nofollow" target="_blank">中美关系（一）：中美建交（上）</a>
@@ -120,7 +113,6 @@ description: ""
 </p>
 </li>
 </ul>
-<p></p>
 </div>
 </details>
 </div>
@@ -129,13 +121,17 @@ description: ""
 <details class="isomer-details">
 <summary>解读数据</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>* [解读数据（一）](https://vle.learning.moe.edu.sg/moe-library/lesson/view/3c6f4e1b-75a9-4245-8af0-713d0941f27c/cover)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/3c6f4e1b-75a9-4245-8af0-713d0941f27c/cover" rel="noopener noreferrer nofollow" target="_blank">解读数据（一）</a>
+</p>
+</li>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
 <summary>关键词</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <ul>
 <li>
 <p><a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/313ed99e-f28d-43bb-85f7-82dea62fbd5e/cover" rel="noopener noreferrer nofollow" target="_blank">未富先老</a>
@@ -144,7 +140,6 @@ description: ""
 <li>
 <p><a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/6623ecac-d4d9-41c6-8639-2990314ab272/cover" rel="noopener noreferrer nofollow" target="_blank">”共同富裕“——2021年的关键词？</a>
 </p>
-<p></p>
 </li>
 </ul>
 </div>
