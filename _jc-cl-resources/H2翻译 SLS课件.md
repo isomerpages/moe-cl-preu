@@ -111,19 +111,18 @@ description: ""
 <p></p>
 </div>
 </details>
-<details class="isomer-details">
-<summary>学生讲座</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
 </div>
 <h4><strong>讲座</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>学生讲座</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/3e902ab1-3295-44b2-b26b-57a7fe13ba38/cover" rel="noopener noreferrer nofollow" target="_blank">胡碚助理教授《从理论到实践：翻译之趣与翻译之道》</a>
+</p>
+</li>
+</ul>
 </div>
 </details>
 </div>
