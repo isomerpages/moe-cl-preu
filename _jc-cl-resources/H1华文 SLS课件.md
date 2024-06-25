@@ -13,6 +13,10 @@ description: ""
 <p>
 	
 * [把握多元文化的优势](https://vle.learning.moe.edu.sg/moe-library/lesson/view/729f7646-0d91-4913-a611-79d431e4980e/cover)
+* [生活语料（文化与生活）一：活动报道](https://vle.learning.moe.edu.sg/moe-library/lesson/view/b6df1cbe-7d6d-46dd-bff5-89f7f327619d/cover)
+* [生活语料（文化与生活）二：活动报道](https://vle.learning.moe.edu.sg/moe-library/lesson/view/b6df1cbe-7d6d-46dd-bff5-89f7f327619d/cover)
+* [生活语料（文化与生活）三：邀请函](https://vle.learning.moe.edu.sg/moe-library/lesson/view/32c88803-fd41-460c-842c-9d8ab0428230/cover)
+* [生活语料（文化与生活）四：活动报道](https://vle.learning.moe.edu.sg/moe-library/lesson/view/b6df1cbe-7d6d-46dd-bff5-89f7f327619d/cover)
 	</p></div>
 </details>
 	
@@ -33,9 +37,12 @@ description: ""
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
 	
-* [消失中的工作](https://vle.learning.moe.edu.sg/moe-library/lesson/view/efd6e34d-9859-4357-bbb4-0ed2c59338ad/cover)
+* [抓住变化带来的契机](https://vle.learning.moe.edu.sg/moe-library/lesson/view/1b435ff0-5fe7-42c2-a841-a5473582cc57/cover)
+* [网络诈骗](https://vle.learning.moe.edu.sg/moe-library/lesson/view/a6f1325e-96c4-405c-baf4-482a45ec6638/cover)
+* [消失中的工作](https://vle.learning.moe.edu.sg/moe-library/lesson/view/fe00087f-4bb7-4f46-a814-3875b1a0d0bd/cover)
 * [专题报道：传统味道能够代代相传吗？（一）](https://vle.learning.moe.edu.sg/moe-library/lesson/view/a6f1325e-96c4-405c-baf4-482a45ec6638/cover)
-		</p></div>
+	
+</p></div>
 </details>
 			
 <p style="color: #0C69D5; font-family: kai; font-size: 28px; font-weight: bold">写作</p>
@@ -66,7 +73,11 @@ description: ""
 <summary><p style="font-family: kai; font-size: 22px;">口头报告</p></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
-	
+
+* [口语教学](https://vle.learning.moe.edu.sg/moe-library/lesson/view/82405408-b47c-4f4b-82d2-e209c8884832/cover)
+* [新加坡公民的义务](https://vle.learning.moe.edu.sg/moe-library/lesson/view/04a31632-0d94-4c38-8b2f-cc3224841a8c/cover)
+* [亲情](https://vle.learning.moe.edu.sg/moe-library/lesson/view/826b333f-85e5-4430-9406-2fdd20d142a9/cover)
+* [写作迈向智慧国](https://vle.learning.moe.edu.sg/moe-library/lesson/view/89818b75-58b8-4e0f-908b-0dee38eec720/cover)
 * [让新加坡更健康](https://vle.learning.moe.edu.sg/moe-library/lesson/view/347ab4dd-ce86-414a-8118-a3fddb6ae609/cover)
 * [新加坡美食天堂](https://vle.learning.moe.edu.sg/moe-library/lesson/view/e90768fc-a002-410b-9e0a-66670d68692e/cover)
 * [社区花园，宜居城市](https://vle.learning.moe.edu.sg/moe-library/lesson/view/75b60bae-aa6f-491c-8226-3d580cff52a7/cover)
@@ -84,10 +95,11 @@ description: ""
 	* [【2020年】自拍文化](https://vle.learning.moe.edu.sg/moe-library/lesson/view/9c9455dc-7afd-4d7b-9cb1-30d48cc538fd/cover)
 	* [【2019年】追求爱好](https://vle.learning.moe.edu.sg/moe-library/lesson/view/04d91943-275b-4703-a909-f541287391da/cover)
 	* [【2019年】舞台表演](https://vle.learning.moe.edu.sg/moe-library/lesson/view/9e84131b-b6dd-4e60-a051-431df3b36f57/cover)
+	* [【2019年】代沟](https://vle.learning.moe.edu.sg/moe-library/lesson/view/1c3d5e1f-9627-4f5f-9945-76aa207edc15/cover)
 	* [【2019年】公共条规告示牌](https://vle.learning.moe.edu.sg/moe-library/lesson/view/acd341c8-aeae-40c5-a9d7-0a89d8a9cdec/cover)
 	* [【2018年】终身学习](https://vle.learning.moe.edu.sg/moe-library/lesson/view/799a557e-8681-4f58-8422-85d14e8e8e8a/cover)
 	* [【2018年】涂鸦](https://vle.learning.moe.edu.sg/moe-library/lesson/view/6ce5e2ac-ec24-4be4-b6ae-b40a675e3403/cover)
-
+	* [【2018年】保持环境清洁](https://vle.learning.moe.edu.sg/moe-library/lesson/view/e9fac245-34b2-4900-b0a6-41f3fad28995/cover)
 	</p></div>
 </details>
 <p style="color: #0C69D5; font-family: kai; font-size: 28px; font-weight: bold">语文应用与阅读理解</p>
@@ -116,4 +128,14 @@ description: ""
 * [综合填空（六）](https://vle.learning.moe.edu.sg/moe-library/lesson/view/4b953356-fc59-4bc9-9a76-86f315ee6019/cover)
 * [综合填空（七）](https://vle.learning.moe.edu.sg/moe-library/lesson/view/3ad8cfed-5661-452e-89d3-7204416a56d3/cover)
 	</p></div>
-</details></div></div></div></div></div></div></div></div></div>
+</details>
+
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><p style="font-family: kai; font-size: 22px;">长文缩短</p></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>
+	
+* [长文缩短（一）](https://vle.learning.moe.edu.sg/moe-library/lesson/view/e3bb44c5-8665-4460-a30c-b7dcec9c480d/cover)
+* [长文缩短（二）](https://vle.learning.moe.edu.sg/moe-library/lesson/view/16298272-e645-42de-ba91-8a9cbe2a7a27/cover)
+	</p></div></details></div></div></div></div></div></div></div></div></div></div>
