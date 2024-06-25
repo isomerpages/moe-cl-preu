@@ -4,8 +4,7 @@ permalink: /h2csc-sls-resources/
 variant: tiptap
 description: ""
 ---
-<p><strong>核心课题</strong>
-</p>
+<h4><strong>核心课题</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>核心课题简介</summary>
@@ -125,8 +124,7 @@ description: ""
 </div>
 </details>
 </div>
-<p><strong>中国通识技能</strong>
-</p>
+<h4><strong>中国通识技能</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>解读数据</summary>
@@ -152,8 +150,7 @@ description: ""
 </div>
 </details>
 </div>
-<p><strong>热门话题</strong>
-</p>
+<h4><strong>热门话题</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>热门事件</summary>
@@ -162,8 +159,7 @@ description: ""
 </div>
 </details>
 </div>
-<p><strong>讲座</strong>
-</p>
+<h4><strong>讲座</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>双文化课程研讨会</summary>
