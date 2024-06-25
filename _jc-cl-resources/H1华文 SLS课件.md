@@ -13,10 +13,12 @@ description: ""
 <p>
 	
 * [把握多元文化的优势](https://vle.learning.moe.edu.sg/moe-library/lesson/view/729f7646-0d91-4913-a611-79d431e4980e/cover)
-* [生活语料（文化与生活）一：活动报道](https://vle.learning.moe.edu.sg/moe-library/lesson/view/b6df1cbe-7d6d-46dd-bff5-89f7f327619d/cover)
-* [生活语料（文化与生活）二：活动报道](https://vle.learning.moe.edu.sg/moe-library/lesson/view/b6df1cbe-7d6d-46dd-bff5-89f7f327619d/cover)
+* [生活语料（文化与生活）一：广告](https://vle.learning.moe.edu.sg/moe-library/lesson/view/477b87f0-3e51-4c91-87e6-620401f7973a/cover)
+* [生活语料（文化与生活）二：启示](https://vle.learning.moe.edu.sg/moe-library/lesson/view/399838ae-4392-4201-98e3-4c44974e4974/cover)
 * [生活语料（文化与生活）三：邀请函](https://vle.learning.moe.edu.sg/moe-library/lesson/view/32c88803-fd41-460c-842c-9d8ab0428230/cover)
 * [生活语料（文化与生活）四：活动报道](https://vle.learning.moe.edu.sg/moe-library/lesson/view/b6df1cbe-7d6d-46dd-bff5-89f7f327619d/cover)
+* [传统的味道](https://vle.learning.moe.edu.sg/moe-library/lesson/view/52d256f4-5d70-4262-b5be-5b55d5444a5d/cover)
+* [消失中的传统文化](https://vle.learning.moe.edu.sg/moe-library/lesson/view/622ac749-a9c0-49fe-bb7c-addefcd5b14e/cover)
 	</p></div>
 </details>
 	
@@ -53,6 +55,7 @@ description: ""
 <p>
 	
 * [课件一](https://vle.learning.moe.edu.sg/moe-library/lesson/view/e32d1189-2b65-4e9e-9fc6-2f3982236c05/cover)
+* [课件二](https://vle.learning.moe.edu.sg/moe-library/lesson/view/1f6be9ee-3e36-4bcd-b4c2-8699048012c8/cover)
 	</p></div>
 </details>
 	
@@ -64,6 +67,26 @@ description: ""
 	
 * [材料作文扩写（一）（混合式教学）](https://vle.learning.moe.edu.sg/moe-library/lesson/view/e9868cbe-54ab-4213-9c81-eaa3eedd79cf/cover)
 * [材料作文扩写（二）（混合式教学）](https://vle.learning.moe.edu.sg/moe-library/lesson/view/5c9697ff-ac63-498b-a753-2478ef41a096/cover)
+	</p></div>
+</details>
+
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><p style="font-family: kai; font-size: 22px;">看图作文</p></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>
+	
+* [看图作文](https://cms.isomer.gov.sg/sites/moe-cl-preu/folders/jc-cl-resources/editPage/H1%E5%8D%8E%E6%96%87%20SLS%E8%AF%BE%E4%BB%B6.md)
+	</p></div>
+</details>
+
+	<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><p style="font-family: kai; font-size: 22px;">写作手法</p></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>
+	
+* [细节描写——《雪地上的脚印》（二）](https://vle.learning.moe.edu.sg/moe-library/lesson/view/224557b2-a5b5-44e2-948b-696e70202e7f/cover)
 	</p></div>
 </details>
 	
@@ -81,12 +104,17 @@ description: ""
 * [社区服务](https://vle.learning.moe.edu.https://vle.learning.moe.edu.sg/moe-library/lesson/view/72bb989a-48bc-4743-8317-9eb870df8ee1/cover)
 * [升级再造——环保新理念](https://vle.learning.moe.edu.sg/moe-library/lesson/view/11e710c9-32e1-4503-8986-ad5b59c898ab/cover)
 * [携手迈向智慧国](https://vle.learning.moe.edu.sg/moe-library/lesson/view/89818b75-58b8-4e0f-908b-0dee38eec720/cover)
+* [网络安全](https://vle.learning.moe.edu.sg/moe-library/lesson/view/c0959258-3c5d-449b-a7f1-8a0144f79ec8/cover)
 * [让新加坡更健康](https://vle.learning.moe.edu.sg/moe-library/lesson/view/347ab4dd-ce86-414a-8118-a3fddb6ae609/cover)
+* [新加坡食物浪费问题](https://vle.learning.moe.edu.sg/moe-library/lesson/view/0c0aaf8d-6a68-4bd7-b5fb-5014e5a8ea29/cover)
 * [平衡学业与休闲生活](https://vle.learning.moe.edu.sg/moe-library/lesson/view/884aaf2a-db29-41e8-ac5a-f793cb56938a/cover)
 * [独特的新加坡文化](https://vle.learning.moe.edu.sg/moe-library/lesson/view/9cd24503-0e88-4023-a795-3a333220ea0a/cover)
-* [小贩文化](https://vle.learning.moe.edu.sg/moe-library/lesson/view/416d0626-7796-40ea-ba91-f3b4998ac1c2/cover)
+* [新加坡式华语](https://vle.learning.moe.edu.sg/moe-library/lesson/view/b979b3a7-b840-497a-9632-d292a98ff454/cover)
+	* [小贩文化](https://vle.learning.moe.edu.sg/moe-library/lesson/view/416d0626-7796-40ea-ba91-f3b4998ac1c2/cover)
 * [新加坡美食天堂](https://vle.learning.moe.edu.sg/moe-library/lesson/view/e90768fc-a002-410b-9e0a-66670d68692e/cover)
 * [社区花园，宜居城市](https://vle.learning.moe.edu.sg/moe-library/lesson/view/75b60bae-aa6f-491c-8226-3d580cff52a7/cover)
+* [创造更好的通勤体验](https://vle.learning.moe.edu.sg/moe-library/lesson/view/3f051edc-92e5-4224-b720-5dbc8a1594bb/cover)
+* [书法奇人（二）](https://vle.learning.moe.edu.sg/moe-library/lesson/view/0de15b18-9d7b-4fe1-b565-29a7290c6035/cover)
 	</p></div>
 </details>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
@@ -106,15 +134,43 @@ description: ""
 	* [【2018年】终身学习](https://vle.learning.moe.edu.sg/moe-library/lesson/view/799a557e-8681-4f58-8422-85d14e8e8e8a/cover)
 	* [【2018年】涂鸦](https://vle.learning.moe.edu.sg/moe-library/lesson/view/6ce5e2ac-ec24-4be4-b6ae-b40a675e3403/cover)
 	* [【2018年】保持环境清洁](https://vle.learning.moe.edu.sg/moe-library/lesson/view/e9fac245-34b2-4900-b0a6-41f3fad28995/cover)
+	* [【2018年】骑脚踏车](https://vle.learning.moe.edu.sg/moe-library/lesson/view/2b3c2f8a-f3b0-4bf1-a3c8-23c5174e2607/cover)
 	</p></div>
 </details>
-<p style="color: #0C69D5; font-family: kai; font-size: 28px; font-weight: bold">语文应用与阅读理解</p>
+<p style="color: #0C69D5; font-family: kai; font-size: 28px; font-weight: bold">阅读理解</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><p style="font-family: kai; font-size: 22px;">阅读策略</p></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>
+	
+* [阅读策略REAP：书法奇人（一）](https://vle.learning.moe.edu.sg/moe-library/lesson/view/4b12c6dd-5099-4820-91b3-83167d48b7aa/cover)
+* [阅读策略REAP：疫情与我们这一代（一）](https://vle.learning.moe.edu.sg/moe-library/lesson/view/8f318c2c-c906-4699-ba70-165bbd81f377/page/36968028)
+* [阅读策略REAP：疫情与我们这一代（二）](https://vle.learning.moe.edu.sg/moe-library/lesson/view/0fb3d2d7-c57e-4bbf-9e1b-241cb62e12bd/cover)
+* [阅读策略REAP：《雪地上的脚印》（一）](https://vle.learning.moe.edu.sg/moe-library/lesson/view/10c0b6de-9d28-4ef6-98c3-f7ef24a52f5d/cover)
+* [找出文章信息的异同点](https://vle.learning.moe.edu.sg/moe-library/lesson/view/8afd5262-768d-4d16-9733-936d747277ee/cover)
+	</p></div>
+</details>
+	
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><p style="font-family: kai; font-size: 22px;">解读海报</p></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>
+	
+* [保护环境（一）](https://vle.learning.moe.edu.sg/moe-library/lesson/view/3de68c1e-2ef7-4674-a5f7-1d03d3fa1961/cover)
+* [保护环境（二）](https://vle.learning.moe.edu.sg/moe-library/lesson/view/3c18bc93-284b-4ebb-b4c9-a5f17d7e680c/cover)
+	</p></div>
+</details>
+	
+<p style="color: #0C69D5; font-family: kai; font-size: 28px; font-weight: bold">语文应用</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><p style="font-family: kai; font-size: 22px;">语文知识</p></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
 	
+* [比喻](https://vle.learning.moe.edu.sg/moe-library/lesson/view/8187ad10-f347-4b00-be74-3e52ebe5d8c8/cover)
 * [十二生肖趣味成语](https://vle.learning.moe.edu.sg/moe-library/lesson/view/f09981fd-0441-438e-b9a0-6c3e32a880be/cover)
 	</p></div>
 </details>
@@ -144,4 +200,4 @@ description: ""
 	
 * [长文缩短（一）](https://vle.learning.moe.edu.sg/moe-library/lesson/view/e3bb44c5-8665-4460-a30c-b7dcec9c480d/cover)
 * [长文缩短（二）](https://vle.learning.moe.edu.sg/moe-library/lesson/view/16298272-e645-42de-ba91-8a9cbe2a7a27/cover)
-	</p></div></details></div></div></div></div></div></div></div></div></div></div>
+	</p></div></details></div></div></div></div></div></div></div></div></div></div></div></div></div></div>
