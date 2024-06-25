@@ -9,7 +9,6 @@ description: ""
 <details class="isomer-details">
 <summary>阅读理解</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/7835b856-d6af-4a83-8ce0-48367ee2b177/cover" rel="noopener noreferrer nofollow" target="_blank">技巧（一）：推测词义的方法</a>
@@ -52,26 +51,22 @@ description: ""
 </p>
 </li>
 </ul>
-<p></p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>作文</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/1fb64501-9c18-4bb5-896d-90d90fa23331/cover" rel="noopener noreferrer nofollow" target="_blank">漫画作文</a>
 </p>
 </li>
 </ul>
-<p></p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>从阅读到写作</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/ed94b951-d262-4f7c-a408-6dc6de7ac578/cover" rel="noopener noreferrer nofollow" target="_blank">主题讨论：关系——和谐共处或矛盾对立</a>
@@ -98,7 +93,6 @@ description: ""
 </p>
 </li>
 </ul>
-<p></p>
 </div>
 </details>
 </div>
@@ -107,7 +101,6 @@ description: ""
 <details class="isomer-details">
 <summary>中国文学发展概论</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/bb12cec4-1739-4041-8067-7e57e8c378e5/cover" rel="noopener noreferrer nofollow" target="_blank">先秦——汉代文学</a>
@@ -142,13 +135,11 @@ description: ""
 </p>
 </li>
 </ul>
-<p></p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>文学修辞手法</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/9f2dbd0c-7671-4fb8-b252-98f884ade5f2/cover" rel="noopener noreferrer nofollow" target="_blank">排比</a>
@@ -183,13 +174,11 @@ description: ""
 </p>
 </li>
 </ul>
-<p></p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>文言文</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/885a3d5e-6a82-4a5b-b84f-b2cf3ddb1998/cover" rel="noopener noreferrer nofollow" target="_blank">文言文一点通（一）：认识文言文</a>
@@ -216,13 +205,11 @@ description: ""
 </p>
 </li>
 </ul>
-<p></p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>中国散文</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/960b244e-6da8-4ce5-9d6a-74d0c3a5946c/cover" rel="noopener noreferrer nofollow" target="_blank">中国散文（一）：散文体裁简介</a>
@@ -237,13 +224,11 @@ description: ""
 </p>
 </li>
 </ul>
-<p></p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>诗词</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://vle.learning.moe.edu.sg/moe-library/lesson/view/d79b8fdf-45de-49f4-b495-bb7c526f771e/cover" rel="noopener noreferrer nofollow" target="_blank">诗歌的发展与形式（一）</a>
@@ -258,7 +243,6 @@ description: ""
 </p>
 </li>
 </ul>
-<p></p>
 </div>
 </details>
 <details class="isomer-details">
