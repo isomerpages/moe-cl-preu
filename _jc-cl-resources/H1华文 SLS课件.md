@@ -76,7 +76,7 @@ description: ""
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
 	
-* [看图作文](https://cms.isomer.gov.sg/sites/moe-cl-preu/folders/jc-cl-resources/editPage/H1%E5%8D%8E%E6%96%87%20SLS%E8%AF%BE%E4%BB%B6.md)
+* [看图作文](https://vle.learning.moe.edu.sg/moe-library/lesson/view/5296c92b-d093-4f13-9b83-9b2f522706e4/cover)
 	</p></div>
 </details>
 
