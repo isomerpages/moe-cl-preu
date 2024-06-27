@@ -5,10 +5,10 @@ variant: tiptap
 description: ""
 ---
 <h2>Terms of Use</h2>
-<p>Thank you for visiting cl-preu.gov.sg. By accessing and using this website,
-you shall be deemed to have accepted to be legally bound by these Terms
-of Use. If you do not agree to these Terms of Use, please do not use this
-website.</p>
+<p>Thank you for visiting <a href="https://cl-preu.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cl-preu.gov.sg</a>. By accessing and using
+this website, you shall be deemed to have accepted to be legally bound
+by these Terms of Use. If you do not agree to these Terms of Use, please
+do not use this website.</p>
 <h4>General</h4>
 <ol data-tight="true" class="tight">
 <li>
