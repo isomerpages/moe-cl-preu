@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <div class="iframe-wrapper">
-<iframe height="460" width="600" allowfullscreen="true" frameborder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTQTWfAMfH6ussrfcNFgKIevihxBacRsXUed-rF2IAooaT1IyL0cPMjw2zhRm2FeDJwqYjbFlt4Dv1P/pubhtml?gid=0&amp;range=A1:D14&amp;single=false&amp;widget=false&amp;headers=false&amp;chrome=false&amp;"></iframe>
+<iframe height="460" width="850" allowfullscreen="true" frameborder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTQTWfAMfH6ussrfcNFgKIevihxBacRsXUed-rF2IAooaT1IyL0cPMjw2zhRm2FeDJwqYjbFlt4Dv1P/pubhtml?gid=0&amp;range=A1:D14&amp;single=false&amp;widget=false&amp;headers=false&amp;chrome=false&amp;"></iframe>
 </div>
 <p></p>
 <h4><strong>语言学</strong></h4>
