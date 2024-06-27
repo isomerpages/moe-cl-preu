@@ -1,15 +1,21 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/cpdd.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: 华文课程
+    collection: jc-cl-courses
+  - title: 特别课程
+    collection: special-programmes
+  - title: 课程数码资源
+    url: /slsresources/
+    sublinks:
+      - title: H1华文
+        url: /h1cl-sls-resources/
+      - title: H2翻译
+        url: /h2t-sls-resources/
+      - title: H2中国通识
+        url: /h2csc-sls-resources/
+      - title: H2华文与文学
+        url: /h2cll-sls-resources/
+      - title: 双文化课程
+        url: /bsp-sls-resources/
+  - title: 学以致用
+    collection: ecg

@@ -1,0 +1,5 @@
+collections:
+  ecg:
+    output: true
+    order:
+      - 华文优势.md
