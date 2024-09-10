@@ -2,6 +2,7 @@ collections:
   jc-cl-courses:
     output: true
     order:
+      - jcclb.md
       - 高中华文课程总览.md
       - H1华文.md
       - H2中国通识.md
