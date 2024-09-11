@@ -1,5 +1,5 @@
 title: 高中华文课程 Pre-University Chinese Courses
-url: https://cl-preu.gov.sg
+url: https://preu-cl.moe.edu.sg
 favicon: /images/cpdd.jpg
 colors:
   primary-color: "#4a90e2"
@@ -54,6 +54,6 @@ prod: https://master.d1iw8fw1iyvf8q.amplifyapp.com
 facebook-pixel: ""
 shareicon: /images/cpdd.jpg
 is_government: true
-google_analytics_ga4: ""
+google_analytics_ga4: G-FEL3N91MG8
 linkedin-insights: ""
 resources_name: pre-u-cl
