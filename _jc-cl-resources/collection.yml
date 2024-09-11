@@ -2,7 +2,7 @@ collections:
   jc-cl-resources:
     output: true
     order:
-      - h1cl sls resources.md
+      - 华文‘B’ SLS课件.md
       - SLS学习资源.md
       - H1华文 SLS课件.md
       - H2华文与文学 SLS课件.md
