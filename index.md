@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: 高中华文课程
+      title: 高中华文课程资讯网
       subtitle: 承前启后迎未来
       background: /images/Screenshot_2023_12_27_at_1_29_39_PM.png
   - infopic:
