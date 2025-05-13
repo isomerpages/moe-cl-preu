@@ -2,5 +2,5 @@ collections:
   ecg:
     output: true
     order:
-      - courseintro.md
       - 华文优势.md
+      - courseintro.md
